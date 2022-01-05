@@ -7,7 +7,6 @@ Testing is a fun job for me because you are a very important person for the clie
 
 Skills: JAVA / JS/HTML / CSS / Git/Bitbucket/Jenkins/Cucumber/TestNG/JUnit
 
-- 🔭 I’m currently working on this page. 
 
 
 
