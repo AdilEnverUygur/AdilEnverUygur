@@ -1,4 +1,4 @@
-![Software Development Engineer In Test]
+Software Development Engineer In Test
 
 # Hi there 👋, Adil Enver
 ## Software Development Engineer In Test 
