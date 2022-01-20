@@ -1,4 +1,4 @@
-![Software Development Engineer In Test](https://media-exp1.licdn.com/dms/image/C4D16AQGrbr2pEgI26A/profile-displaybackgroundimage-shrink_350_1400/0/1640814302100?e=1646870400&v=beta&t=4ClrhvbqLBXJjo4OOizged3h9e0Ht-jYG5gRBwD-NQU)
+![Software Development Engineer In Test]
 
 # Hi there 👋, Adil Enver
 ## Software Development Engineer In Test 
