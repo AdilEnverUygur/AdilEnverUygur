@@ -13,7 +13,7 @@ Testing is a fun job for me because you are a very important person for the clie
 <a href="https://www.atlassian.com/" rel="nofollow">   <img src="https://camo.githubusercontent.com/bfbc57c2b7db6c411c0bee0fd5f15b80198d2f935cbe32e9c81681af6a126b3f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"> </a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/133551795a35cb11f3936e70bad160a9cef8d7c38638f6e1c66367476f73ccfc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d617232312e737667" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="max-width: 100%;"></a></p>
 
 
-- 🔭 I’m currently working on |YCI|   
+- 🔭 I’m currently working on |YC INOX TURKEY|   
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdilEnverUygur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adilenver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adiljan_anwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17361264/adilenver)  
