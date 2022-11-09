@@ -1,9 +1,13 @@
-Software Development Engineer In Test  
-   
 # Hi there 👋, Adil Enver 
 ## Software Development Engineer In Test 
 ## About Me
-Testing is a fun job for me because you are a very important person for the client and end-user. I am helping others to make sure their product has top quality, bug-free. Testing is my passion , to do test we can build a bug-free applications, to satisfied end-user ,to build great products to generate more revenue. I am Adil, and I do content on Design and Implement various Test automation frameworks using Selenium Java WebDriver. I really enjoy learning language and frameworks like Cucumber, TestNG, JUnit and Console application test harness. 
+•2 years of experience as a manual tester and test automation engineer.
+•Designed and implemented various Test automation frameworks using Selenium Java WebDriver with Cucumber,TestNG and Junit framework. 
+•Gained domain knowledge in e-commerce web applications in Agile environment.
+•Experience in Front-end UI testing and Backend testing like Database and API.
+•Experience in implementing the Page Object Model(POM) by creating elements for each page object and reused all the objects in various scripts.
+•Self–motivated, capable of working independently when needed.
+•love for computer technology and a passion for learning new things.
 
 ## Skills:
 <p align="left">
@@ -13,7 +17,7 @@ Testing is a fun job for me because you are a very important person for the clie
 <a href="https://www.atlassian.com/" rel="nofollow">   <img src="https://camo.githubusercontent.com/bfbc57c2b7db6c411c0bee0fd5f15b80198d2f935cbe32e9c81681af6a126b3f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2d776f72646d61726b2e737667" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" style="max-width: 100%;"> </a><a href="https://www.postgresql.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/133551795a35cb11f3936e70bad160a9cef8d7c38638f6e1c66367476f73ccfc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f706f737467726573716c2f706f737467726573716c2d617232312e737667" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" style="max-width: 100%;"></a></p>
 
 
-- 🔭 I’m currently working on |YC INOX TURKEY|   
+- 🔭 I’m currently working on |YC INOX TR ÇELİK SANAYİ VE TİCARET A.Ş|   
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdilEnverUygur)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adilenver)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adiljan_anwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17361264/adilenver)<a href="https://www.hackerrank.com/adiljan_anwar" rel="nofollow"><img src="https://camo.githubusercontent.com/c27e320bc0dd83da2ac9b3e89b20480c9896c4d732ce13a21bf09e77cbc4133a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6861636b657272616e6b2e737667" alt="hackerrank" height="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" style="max-width: 100%;"></a>
