@@ -2,11 +2,17 @@
 ## Software Development Engineer In Test 
 ## About Me
 •2 years of experience as a manual tester and test automation engineer.
+
 •Designed and implemented various Test automation frameworks using Selenium Java WebDriver with Cucumber,TestNG and Junit framework. 
+
 •Gained domain knowledge in e-commerce web applications in Agile environment.
+
 •Experience in Front-end UI testing and Backend testing like Database and API.
+
 •Experience in implementing the Page Object Model(POM) by creating elements for each page object and reused all the objects in various scripts.
+
 •Self–motivated, capable of working independently when needed.
+
 •love for computer technology and a passion for learning new things.
 
 ## Skills:
