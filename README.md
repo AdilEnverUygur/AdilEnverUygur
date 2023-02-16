@@ -1,4 +1,4 @@
-# Hi there 👋, Adil Enver 
+# Hi there 👋
 ## Software Development Engineer In Test 
 ## About Me
 •3 years of experience as a manual tester and test automation engineer.
