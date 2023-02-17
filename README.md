@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Software Development Engineer In Test 
 ## About Me
-•3 years of experience as a manual tester and test automation engineer.
+•3 years of experience as a Manual Tester and Test Automation Engineer.
 
 •Designed and implemented various Test automation frameworks using Selenium Java WebDriver with Cucumber,TestNG and Junit framework. 
 
