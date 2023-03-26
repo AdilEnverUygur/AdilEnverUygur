@@ -1,5 +1,5 @@
 # Hi there 👋
-## Software Development Engineer In Test 
+## Software Development Engineer in Test 
 ## About Me
 •3 years of experience as a Manual Tester and Test Automation Engineer.
 
