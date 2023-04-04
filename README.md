@@ -1,11 +1,11 @@
 # Hi there  👋
-## Software Development Engineer In Test 
+## Software Developer
 ## About Me
-•3 years of experience as a Manual Tester and Test Automation Engineer.
+•ERP Support and Development Specialist
 
-•Designed and implemented various Test automation frameworks using Selenium Java WebDriver with Cucumber,TestNG and Junit framework. 
+•I am doing the necessary work to solve the problems of the java-based ERP system, which is used globally in the steel factory, which is in the 5th place as the world's giant in the steel industry, to protect its continuity and to respond requests of user. 
 
-•Gained domain knowledge in e-commerce web applications in Agile environment.
+• I am contact with the users and make requirement analysis. In line with these analyzes, I carry out the necessary development works with the Taiwan software team to solve the problems.
 
 •Experience in Front-end UI testing and Backend testing like Database and API.
 
