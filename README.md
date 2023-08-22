@@ -1,7 +1,7 @@
 # Hi there  👋 👋 👋 
 ## Software Developer
 ## About Me
-•ERP Support and Development Specialist
+•ERP Support and Development Specialist - ERP Destek ve Geliştirme Uzmanı
 
 •I am doing the necessary work to solve the problems of the java-based ERP system, which is used globally in the steel factory, which is in the 5th place as the world's giant in the steel industry, to protect its continuity and to respond requests of user. 
 
